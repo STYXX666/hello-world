@@ -1,0 +1,3 @@
+do
+Msgbox"You are being hacked, sir!",0+16,"This is bad!"
+loop
